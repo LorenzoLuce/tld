@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 class TLD
   class CC < TLD
     def type
